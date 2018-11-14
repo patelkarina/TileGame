@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=color
+comment0.target=Tile(java.awt.Color)
+comment0.text=\n\ Constructs\ a\ Tile\ object\ with\ a\ color\ and\ is\n\ faced\ down.\n\ \n\ @param\ color\ \ \ the\ color\ assigned\ to\ the\ tile\ which\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ is\ shown\ when\ the\ tile\ is\ face\ up.\n
+comment1.params=
+comment1.target=java.awt.Color\ getColor()
+comment1.text=\n\ Retrieves\ the\ tile's\ color.\n\ \n\ @return\ the\ color\ of\ the\ tile\ if\ the\ tile\ is\ face\ up;\ \n\ \ \ \ \ \ \ \ \ otherwise,\ the\ color\ is\ black\n
+comment2.params=color
+comment2.target=void\ setColor(java.awt.Color)
+comment2.text=\n\ Assigns\ a\ color\ value\ to\ the\ tile.\n\ \n\ @param\ color\ \ the\ new\ color\ for\ the\ tile\n
+comment3.params=
+comment3.target=java.lang.String\ getText()
+comment3.text=\n\ Retrieves\ the\ text\ that\ is\ on\ the\ tile.\ \ The\ objects\ of\n\ this\ class\ do\ not\ have\ a\ text\ associated\ with\ it.\n\ \n\ @return\ a\ empty\ String\n
+comment4.params=
+comment4.target=void\ flip()
+comment4.text=\n\ Reverses\ the\ state\ of\ whether\ the\ tile\ is\ face\ up\ or\n\ face\ down.\n
+numComments=5

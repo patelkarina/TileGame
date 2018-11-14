@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TileGame()
+comment0.text=\n\ Creates\ objects\ of\ the\ TileGame\ by\ initializing\ the\ tiles\ and\n\ placing\ them\ in\ pairs\ on\ the\ grid\ at\ random\ locations.\ \ In\ addition,\n\ the\ user\ is\ instructed\ to\ click\ on\ the\ first\ tile.\ \ The\ message\ is\n\ placed\ at\ the\ top\ banner\ of\ the\ grid.\n
+comment1.params=loc
+comment1.target=boolean\ locationClicked(info.gridworld.grid.Location)
+comment1.text=\n\ As\ a\ user\ clicks\ on\ tiles,\ the\ game\ progresses.\ \ Specifically,\n\ if\ the\ click\ is\ on\ the\ first\ of\ a\ pair\ of\ tiles,\ the\ first\ tile\ is\ turned\ over.\n\ If\ the\ click\ is\ on\ the\ second\ of\ a\ pair\ of\ tiles\ and\ the\ colors\ match,\ the\n\ tiles\ are\ left\ face\ up.\n\ \n\ @param\ loc\ \ \ the\ location\ of\ the\ tile\ that\ was\ clicked\ on\n\ \n\ @return\ true\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\n\ Initializes\ and\ starts\ the\ memory\ game.\n\ \n\ @param\ args\ arguments\ from\ the\ command\ line\n
+numComments=3
